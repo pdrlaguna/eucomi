@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "eucomi",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9687c4b3-a8de-45ad-9b0f-bf9dbb6d6026",
+      "database_name": "food-tracker-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
